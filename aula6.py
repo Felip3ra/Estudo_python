@@ -11,5 +11,6 @@ print(int('1') + 1)#converte str em int
 print(float('1.2') + 1)#converte str em float
 print(bool(''))#converte em bool
 print(bool('frase'))#converte em bool
+print(str(11) + 'bb')
 
 
