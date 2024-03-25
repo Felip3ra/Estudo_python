@@ -1,3 +1,5 @@
+#f strings
+
 nome = 'Felipe'
 altura = 1.80
 peso = 95
